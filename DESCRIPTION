@@ -1,0 +1,14 @@
+Package: kvk2030
+Type: Package
+Title: What the Package Does in One 'Title Case' Line
+Version: 1.0
+Date: 2025-01-11
+Author: Petr Pavlík
+Maintainer: Petr Pavlík <pavlikpetr@fzp.czu.cz>
+Description: The package contains routines for storage and construction of a 
+river network with respect to lakes and water reservoirs.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.13)
+LinkingTo: Rcpp
+Encoding: UTF-8
+RoxygenNote: 7.3.2

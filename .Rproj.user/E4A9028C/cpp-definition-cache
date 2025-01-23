@@ -1,0 +1,102 @@
+[
+    {
+        "file": "/Users/petrmbpro/Documents/github_projects/kvk2030/inst/include/kvk2030_types.h",
+        "file_last_write": 1736936079.0,
+        "definitions": [
+            {
+                "usr": "c:@S@Povodi",
+                "kind": 2,
+                "parent_name": "",
+                "name": "Povodi",
+                "file": "/Users/petrmbpro/Documents/github_projects/kvk2030/inst/include/kvk2030_types.h",
+                "line": 6,
+                "column": 7,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Povodi@F@horni_povodi#I#1",
+                "kind": 7,
+                "parent_name": "Povodi",
+                "name": "horni_povodi(int)",
+                "file": "/Users/petrmbpro/Documents/github_projects/kvk2030/inst/include/kvk2030_types.h",
+                "line": 19,
+                "column": 15,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Povodi@F@dolni_povodi#I#1",
+                "kind": 7,
+                "parent_name": "Povodi",
+                "name": "dolni_povodi(int)",
+                "file": "/Users/petrmbpro/Documents/github_projects/kvk2030/inst/include/kvk2030_types.h",
+                "line": 20,
+                "column": 15,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@SitPovodi",
+                "kind": 2,
+                "parent_name": "",
+                "name": "SitPovodi",
+                "file": "/Users/petrmbpro/Documents/github_projects/kvk2030/inst/include/kvk2030_types.h",
+                "line": 23,
+                "column": 7,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@SitPovodi@F@getParameter#1",
+                "kind": 7,
+                "parent_name": "SitPovodi",
+                "name": "getParameter",
+                "file": "/Users/petrmbpro/Documents/github_projects/kvk2030/inst/include/kvk2030_types.h",
+                "line": 35,
+                "column": 7,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "/Users/petrmbpro/Documents/github_projects/kvk2030/src/Povodi.cpp",
+        "file_last_write": 1736762987.0,
+        "definitions": [],
+        "hidden": false
+    },
+    {
+        "file": "/Users/petrmbpro/Documents/github_projects/kvk2030/src/SitPovodi.cpp",
+        "file_last_write": 1736930117.0,
+        "definitions": [
+            {
+                "usr": "c:@F@pridej_povodi#$@N@Rcpp@S@XPtr>#$@S@SitPovodi#@N@Rcpp@ST>1#T@PreserveStorage#@N@Rcpp@F@standard_delete_finalizer<#S1_>#*S1_##Vb0#$@N@std@N@__1@S@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@S@allocator>#C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pridej_povodi(Rcpp::XPtr<SitPovodi>, std::string)",
+                "file": "/Users/petrmbpro/Documents/github_projects/kvk2030/src/SitPovodi.cpp",
+                "line": 9,
+                "column": 6,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@novaSitPovodi#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "novaSitPovodi",
+                "file": "/Users/petrmbpro/Documents/github_projects/kvk2030/src/SitPovodi.cpp",
+                "line": 16,
+                "column": 23,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@getSitPovodiParameter#$@N@Rcpp@S@XPtr>#$@S@SitPovodi#@N@Rcpp@ST>1#T@PreserveStorage#@N@Rcpp@F@standard_delete_finalizer<#S1_>#*S1_##Vb0#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "getSitPovodiParameter(Rcpp::XPtr<SitPovodi>)",
+                "file": "/Users/petrmbpro/Documents/github_projects/kvk2030/src/SitPovodi.cpp",
+                "line": 23,
+                "column": 5,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]

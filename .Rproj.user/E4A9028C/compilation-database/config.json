@@ -1,0 +1,26 @@
+{
+    "args": [
+        "-std=gnu++17",
+        "-I/Library/Frameworks/R.framework/Resources/include",
+        "-DNDEBUG",
+        "-I/usr/local/opt/libomp/include",
+        "-I/Users/petrmbpro/Documents/github_projects/kvk2030/inst/include",
+        "-I/usr/local/include",
+        "-fPIC",
+        "-falign-functions=64",
+        "-I/Library/Frameworks/R.framework/Versions/4.4-x86_64/Resources/library/Rcpp/include",
+        "-DEIGEN_DONT_VECTORIZE",
+        "-I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include",
+        "-I/usr/local/include",
+        "-I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1",
+        "-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include",
+        "-I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include",
+        "-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+    ],
+    "pch": "Rcpp",
+    "is_cpp": true,
+    "hash": "171394040017366186461736618109",
+    "compiler": "8486264533794217416",
+    "rversion": "4.4.2",
+    "dbversion": 4
+}
